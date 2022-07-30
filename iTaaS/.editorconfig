@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# SYSLIB0014: O tipo ou membro é obsoleto
+dotnet_diagnostic.SYSLIB0014.severity = warning
